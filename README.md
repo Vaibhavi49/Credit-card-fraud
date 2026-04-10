@@ -5,6 +5,7 @@ A machine learning project to detect fraudulent credit card transactions using r
 ## 📊 Dataset
 - 284,807 transactions with only 0.17% fraud cases
 - Source: [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- Live at: https://credit-card-fraud-xslrscmkbnrf6cv3d3lrqz.streamlit.app
 
 ## 🔍 Problem
 Highly imbalanced binary classification — detecting fraud without 
